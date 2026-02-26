@@ -5,10 +5,10 @@ aws_dbt_snow_project:
       database: 
       password: 
       role: 
-      schema: dbt_schema
-      threads: 1
-      type: snowflake
+      schema: 
+      threads: 
+      type: 
       user: 
-      warehouse: COMPUTE_WH
+      warehouse: 
   target: dev
 
